@@ -37,7 +37,7 @@ const PROJECTS = [
   },
   {
     index: '05',
-    name: 'CNN vs RNN',
+    name: 'Image - Sequence comparision',
     result: 'Comparative study',
     description:
       'A side-by-side deep learning comparison on handwritten digit classification — training equivalent CNN and RNN architectures on the same data to study how each learns spatial vs. sequential structure.',
